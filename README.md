@@ -53,4 +53,4 @@ See the `Submission_folder_daksana/Output summaries/` folder for sample summarie
 
 
 ---
-Project developed under AI Orchestration Bootcamp by Senzmate IoT Intelligence.
+*Project developed under AI Orchestration Bootcamp by Senzmate IoT Intelligence*
